@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/renju700/kiddilanbot",
+  "repository": "https://github.com/kiddilan/MenheraClone",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
